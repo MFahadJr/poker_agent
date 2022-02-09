@@ -1,1 +1,3 @@
 # poker_agent
+
+The project consists of design of a memorizing poker agent where it utilizes the behaviour of the players at the same table. The features which are used: the opponents’ hands at the showdown and the corresponding bets. The input features are then used to predict the strength of the highest bidding opponent using a polynomial for exponential moving average analysis. The result of the implementation is an agent with the ability to adapt its strategy to the current players at the table. Unfortunately, the agent did not manage to win the extra times, and could have been possible by introducing bluffs and maximizing the utility of successful moves. 
