@@ -1,0 +1,1617 @@
+
+
+ Starting Round: 1
+The player FHSHWA01reflex has 200chips
+The player FHSHWA01reflex has 200chips
+The player FHSHWA02mem has 200chips
+The player FHSHWA02mem has 200chips
+Player FHSHWA01reflex hand ['5d', 'Qs', 'Ah', 'As', '6h']
+The ante is: 10
+The ante is: 10
+Player FHSHWA01reflex made a forced bet of 10 chips.
+Player FHSHWA02mem made a forced bet of 10 chips.
+Player FHSHWA01reflex opened, has put 11 chips into the pot.
+Opponents predicted hand: 32
+My hand: 23
+Player FHSHWA02mem called.
+throw card action True the cards to throw ['5d', '6h', 'Qs']
+Player FHSHWA01reflex hand ['8h', 'Th', 'Ah', 'As', '6c']
+Player FHSHWA01reflex exchanged 3 cards.
+Player FHSHWA01reflex exchanged 3 cards.
+throw card action True the cards to throw ['2c', '4d', '9s', 'Ts']
+Player FHSHWA02mem hand ['7s', '4s', 'Jh', 'Jd', '9d']
+Player FHSHWA02mem exchanged 4 cards.
+Player FHSHWA02mem exchanged 4 cards.
+Player FHSHWA01reflex opened, has put 12 chips into the pot.
+Opponents predicted hand: 27
+My hand: 36
+Player FHSHWA02mem raised to 13 chips.
+Player FHSHWA01reflex raised to 14 chips.
+Opponents predicted hand: 52
+My hand: 36
+Player FHSHWA02mem called.
+Player FHSHWA01reflex hand ['8h', 'Th', 'Ah', 'As', '6c']
+Player FHSHWA01reflex hand ['8h', 'Th', 'Ah', 'As', '6c']
+Player FHSHWA02mem hand ['7s', '4s', 'Jh', 'Jd', '9d']
+Player FHSHWA02mem hand ['7s', '4s', 'Jh', 'Jd', '9d']
+Player FHSHWA01reflex won 28 chips.
+Player FHSHWA01reflex won 28 chips.
+
+ Starting Round: 2
+The player FHSHWA01reflex has 214chips
+The player FHSHWA01reflex has 214chips
+The player FHSHWA02mem has 186chips
+The player FHSHWA02mem has 186chips
+Player FHSHWA01reflex hand ['Js', 'Ks', 'Kd', '7d', '7c']
+Player FHSHWA02mem made a forced bet of 10 chips.ps.
+Player FHSHWA02mem opened, has put 11 chips into the pot.
+Player FHSHWA01reflex raised to 12 chips.
+Opponents predicted hand: 29
+My hand: 26
+Player FHSHWA02mem called.
+throw card action True the cards to throw ['Jh']
+Player FHSHWA02mem exchanged 1 cards.'3h', 'Ac', '2d']
+throw card action True the cards to throw ['Js']
+Player FHSHWA02mem exchanged 1 cards.
+Player FHSHWA01reflex hand ['3d', 'Ks', 'Kd', '7d', '7c']
+Player FHSHWA01reflex exchanged 1 cards.
+Player FHSHWA01reflex exchanged 1 cards.
+Player FHSHWA02mem opened, has put 13 chips into the pot.
+Player FHSHWA02mem opened, has put 13 chips into the pot.
+Player FHSHWA01reflex raised to 14 chips.
+Player FHSHWA01reflex raised to 14 chips.
+Opponents predicted hand: 52
+My hand: 27
+Player FHSHWA02mem called.
+Player FHSHWA02mem called.
+Player FHSHWA01reflex hand ['3d', 'Ks', 'Kd', '7d', '7c']
+Player FHSHWA02mem hand ['2c', '4d', '3h', 'Ac', '2d']
+Player FHSHWA01reflex won 28 chips.
+Player FHSHWA01reflex hand ['3d', 'Ks', 'Kd', '7d', '7c']
+Player FHSHWA02mem hand ['2c', '4d', '3h', 'Ac', '2d']
+Player FHSHWA01reflex won 28 chips.
+
+ Starting Round: 3
+
+ Starting Round: 3
+The player FHSHWA01reflex has 228chips
+The player FHSHWA01reflex has 228chips
+The player FHSHWA02mem has 172chips
+The player FHSHWA02mem has 172chips
+Player FHSHWA01reflex hand ['6s', 'Qd', '6d', '9d', 'Jh']
+Player FHSHWA02mem hand ['4h', '3s', 'Jd', '7d', '3h']
+Player FHSHWA01reflex made a forced bet of 10 chips.
+Player FHSHWA02mem made a forced bet of 10 chips.
+Player FHSHWA01reflex opened, has put 11 chips into the pot.
+Player FHSHWA01reflex opened, has put 11 chips into the pot.
+Opponents predicted hand: 29
+My hand: 28
+Player FHSHWA02mem called.
+Player FHSHWA02mem called.
+throw card action True the cards to throw ['9d', 'Jh', 'Qd']
+Player FHSHWA01reflex exchanged 3 cards.'6d', 'Kh', 'Jc']
+Player FHSHWA01reflex exchanged 3 cards.
+throw card action True the cards to throw ['4h', '7d', 'Jd']
+Player FHSHWA02mem hand ['Ah', '3s', '6h', '8h', '3h']
+Player FHSHWA02mem exchanged 3 cards.
+Player FHSHWA02mem exchanged 3 cards.
+Player FHSHWA01reflex opened, has put 12 chips into the pot.
+Player FHSHWA01reflex opened, has put 12 chips into the pot.
+Opponents predicted hand: 30
+My hand: 28
+Player FHSHWA02mem called.
+Player FHSHWA01reflex hand ['6s', '2d', '6d', 'Kh', 'Jc']
+Player FHSHWA02mem hand ['Ah', '3s', '6h', '8h', '3h']
+Player FHSHWA01reflex won 24 chips.
+Player FHSHWA02mem hand ['Ah', '3s', '6h', '8h', '3h']
+Player FHSHWA01reflex won 24 chips.
+
+ Starting Round: 4
+
+ Starting Round: 4
+The player FHSHWA01reflex has 240chips
+The player FHSHWA01reflex has 240chips
+The player FHSHWA02mem has 160chips
+The player FHSHWA02mem has 160chips
+Player FHSHWA01reflex hand ['Js', '5h', '2c', '4c', '3h']
+Player FHSHWA02mem hand ['Jh', '6s', '2d', 'Ac', '7s']
+Player FHSHWA02mem made a forced bet of 10 chips.
+Player FHSHWA01reflex made a forced bet of 10 chips.
+Player FHSHWA02mem opened, has put 11 chips into the pot.
+Player FHSHWA01reflex called.
+throw card action True the cards to throw ['2d', '6s', '7s', 'Jh']
+Player FHSHWA02mem hand ['9d', 'Qc', '5c', 'Ac', '3s']
+Player FHSHWA02mem exchanged 4 cards.
+Player FHSHWA02mem exchanged 4 cards.
+throw card action True the cards to throw ['Js']
+Player FHSHWA01reflex hand ['4h', '5h', '2c', '4c', '3h']
+Player FHSHWA01reflex exchanged 1 cards.
+Player FHSHWA01reflex exchanged 1 cards.
+Player FHSHWA02mem opened, has put 12 chips into the pot.
+Player FHSHWA01reflex called.
+Player FHSHWA01reflex hand ['4h', '5h', '2c', '4c', '3h']
+Player FHSHWA02mem hand ['9d', 'Qc', '5c', 'Ac', '3s']
+Player FHSHWA01reflex won 24 chips.
+Player FHSHWA01reflex hand ['4h', '5h', '2c', '4c', '3h']
+Player FHSHWA02mem hand ['9d', 'Qc', '5c', 'Ac', '3s']
+Player FHSHWA01reflex won 24 chips.
+
+ Starting Round: 5
+
+ Starting Round: 5
+The player FHSHWA01reflex has 252chips
+The player FHSHWA01reflex has 252chips
+The player FHSHWA02mem has 148chips
+The player FHSHWA02mem has 148chips
+Player FHSHWA01reflex hand ['8d', 'Jd', 'Th', '5h', '6s']
+Player FHSHWA01reflex made a forced bet of 10 chips.
+Player FHSHWA02mem made a forced bet of 10 chips.
+Player FHSHWA01reflex opened, has put 11 chips into the pot.
+Opponents predicted hand: 25
+My hand: 32
+Player FHSHWA02mem raised to 12 chips.
+Player FHSHWA01reflex called.
+throw card action True the cards to throw ['5h', '6s', '8d', 'Th']
+Player FHSHWA01reflex hand ['2c', 'Jd', 'As', 'Qc', '9h']
+Player FHSHWA01reflex exchanged 4 cards.
+throw card action True the cards to throw ['8h', 'Td', 'Kh']
+Player FHSHWA02mem hand ['7c', '7h', '4h', '4c', '9c']
+Player FHSHWA02mem exchanged 3 cards.
+Player FHSHWA02mem exchanged 3 cards.
+Player FHSHWA01reflex opened, has put 13 chips into the pot.
+Opponents predicted hand: 30
+My hand: 45
+Player FHSHWA02mem raised to 14 chips.
+Player FHSHWA02mem raised to 14 chips.
+Player FHSHWA01reflex called.
+Player FHSHWA01reflex hand ['2c', 'Jd', 'As', 'Qc', '9h']
+Player FHSHWA02mem hand ['7c', '7h', '4h', '4c', '9c']
+Player FHSHWA01reflex hand ['2c', 'Jd', 'As', 'Qc', '9h']
+Player FHSHWA02mem hand ['7c', '7h', '4h', '4c', '9c']
+Player FHSHWA02mem won 28 chips.
+
+ Starting Round: 6
+
+ Starting Round: 6
+The player FHSHWA01reflex has 238chips
+The player FHSHWA01reflex has 238chips
+The player FHSHWA02mem has 162chips
+The player FHSHWA02mem has 162chips
+Player FHSHWA01reflex hand ['6s', 'Th', '3s', '8s', '4c']
+Player FHSHWA02mem made a forced bet of 10 chips.ps.
+Player FHSHWA02mem opened, has put 11 chips into the pot.
+Player FHSHWA02mem opened, has put 11 chips into the pot.
+Player FHSHWA01reflex called.
+throw card action True the cards to throw ['4h', '6d', 'Kc']
+Player FHSHWA02mem hand ['7h', '9s', '9d', '7c', 'Ah']
+Player FHSHWA02mem exchanged 3 cards.
+Player FHSHWA02mem exchanged 3 cards.
+throw card action True the cards to throw ['3s', '4c', '6s', '8s']
+Player FHSHWA01reflex hand ['7d', 'Th', '3d', 'Qd', '3h']
+Player FHSHWA01reflex exchanged 4 cards.
+Player FHSHWA01reflex exchanged 4 cards.
+Player FHSHWA02mem opened, has put 12 chips into the pot.
+Player FHSHWA01reflex called.
+Player FHSHWA01reflex hand ['7d', 'Th', '3d', 'Qd', '3h']
+Player FHSHWA02mem hand ['7h', '9s', '9d', '7c', 'Ah']
+Player FHSHWA02mem won 24 chips.
+Player FHSHWA01reflex hand ['7d', 'Th', '3d', 'Qd', '3h']
+Player FHSHWA02mem hand ['7h', '9s', '9d', '7c', 'Ah']
+Player FHSHWA02mem won 24 chips.
+
+ Starting Round: 7
+The player FHSHWA01reflex has 226chips
+The player FHSHWA01reflex has 226chips
+The player FHSHWA02mem has 174chips
+The player FHSHWA02mem has 174chips
+Player FHSHWA01reflex hand ['6h', '5s', '6d', '5c', '6c']
+Player FHSHWA01reflex made a forced bet of 10 chips.
+Player FHSHWA01reflex opened, has put 14 chips into the pot.
+Player FHSHWA01reflex opened, has put 14 chips into the pot.
+Opponents predicted hand: 30
+My hand: 25
+Player FHSHWA02mem called.
+throw card action False the cards to throw  
+Player FHSHWA01reflex exchanged 0 cards.
+Player FHSHWA01reflex exchanged 0 cards.
+throw card action True the cards to throw ['2c', '3s', '9h', 'Qs']
+Player FHSHWA02mem hand ['2h', '7c', 'Ts', 'Jd', 'Kd']
+Player FHSHWA02mem exchanged 4 cards.
+Player FHSHWA02mem exchanged 4 cards.
+Player FHSHWA01reflex opened, has put 15 chips into the pot.
+Player FHSHWA01reflex opened, has put 15 chips into the pot.
+Opponents predicted hand: 51
+My hand: 25
+Player FHSHWA02mem called.
+Player FHSHWA01reflex hand ['6h', '5s', '6d', '5c', '6c']
+Player FHSHWA01reflex hand ['6h', '5s', '6d', '5c', '6c']
+Player FHSHWA02mem hand ['2h', '7c', 'Ts', 'Jd', 'Kd']
+Player FHSHWA01reflex won 30 chips.
+Player FHSHWA02mem hand ['2h', '7c', 'Ts', 'Jd', 'Kd']
+Player FHSHWA01reflex won 30 chips.
+
+ Starting Round: 8
+
+ Starting Round: 8
+The player FHSHWA01reflex has 241chips
+The player FHSHWA01reflex has 241chips
+The player FHSHWA02mem has 159chips
+The player FHSHWA02mem has 159chips
+Player FHSHWA02mem hand ['6h', '7s', 'Ad', '3h', '8d']c']
+Player FHSHWA02mem made a forced bet of 10 chips.
+Player FHSHWA01reflex made a forced bet of 10 chips.
+Player FHSHWA02mem opened, has put 11 chips into the pot.
+Player FHSHWA01reflex called.
+throw card action True the cards to throw ['3h']
+Player FHSHWA02mem hand ['6h', '7s', 'Ad', '4d', '8d']
+Player FHSHWA02mem exchanged 1 cards.
+Player FHSHWA02mem exchanged 1 cards.
+throw card action True the cards to throw ['2s', '5d', '7c', '8s']
+Player FHSHWA01reflex exchanged 4 cards.'Jc', 'Th', 'Kh']
+Player FHSHWA01reflex exchanged 4 cards.
+Player FHSHWA02mem opened, has put 12 chips into the pot.
+Player FHSHWA02mem opened, has put 12 chips into the pot.
+Player FHSHWA01reflex raised to 13 chips.
+Opponents predicted hand: 30
+My hand: 26
+Player FHSHWA02mem called.
+Player FHSHWA02mem called.
+Player FHSHWA01reflex hand ['Ts', 'Qs', 'Jc', 'Th', 'Kh']
+Player FHSHWA02mem hand ['6h', '7s', 'Ad', '4d', '8d']
+Player FHSHWA01reflex hand ['Ts', 'Qs', 'Jc', 'Th', 'Kh']
+Player FHSHWA01reflex won 26 chips.
+Player FHSHWA02mem hand ['6h', '7s', 'Ad', '4d', '8d']
+Player FHSHWA01reflex won 26 chips.
+
+ Starting Round: 9
+The player FHSHWA01reflex has 254chips
+The player FHSHWA01reflex has 254chips
+The player FHSHWA02mem has 146chips
+The player FHSHWA02mem has 146chips
+Player FHSHWA01reflex hand ['7c', 'Ts', '8s', 'Ad', '6s']
+Player FHSHWA02mem hand ['Jd', '4d', '4s', 'Ac', 'Jh']
+Player FHSHWA01reflex made a forced bet of 10 chips.
+Player FHSHWA01reflex opened, has put 11 chips into the pot.
+Player FHSHWA01reflex opened, has put 11 chips into the pot.
+Opponents predicted hand: 25
+My hand: 49
+Player FHSHWA02mem raised to 40 chips.
+Player FHSHWA02mem raised to 40 chips.
+Player FHSHWA01reflex called.
+Player FHSHWA01reflex called.
+throw card action True the cards to throw ['Ts']
+Player FHSHWA01reflex hand ['7c', '9c', '8s', 'Ad', '6s']
+Player FHSHWA01reflex exchanged 1 cards.
+throw card action True the cards to throw ['Ac']
+Player FHSHWA02mem hand ['Jd', '4d', '4s', 'Th', 'Jh']
+Player FHSHWA02mem exchanged 1 cards.
+Player FHSHWA02mem exchanged 1 cards.
+Player FHSHWA01reflex opened, has put 41 chips into the pot.
+Player FHSHWA01reflex opened, has put 41 chips into the pot.
+Opponents predicted hand: 38
+My hand: 49
+Player FHSHWA02mem raised to 42 chips.
+Player FHSHWA01reflex called.
+Player FHSHWA01reflex hand ['7c', '9c', '8s', 'Ad', '6s']
+Player FHSHWA01reflex hand ['7c', '9c', '8s', 'Ad', '6s']
+Player FHSHWA02mem hand ['Jd', '4d', '4s', 'Th', 'Jh']
+Player FHSHWA02mem hand ['Jd', '4d', '4s', 'Th', 'Jh']
+Player FHSHWA02mem won 84 chips.
+Player FHSHWA02mem won 84 chips.
+
+ Starting Round: 10
+
+ Starting Round: 10
+The player FHSHWA01reflex has 212chips
+The player FHSHWA01reflex has 212chips
+The player FHSHWA02mem has 188chips
+The player FHSHWA02mem has 188chips
+Player FHSHWA02mem hand ['5h', '6h', 'Qs', '9d', '8c']c']
+Player FHSHWA01reflex made a forced bet of 10 chips.
+Player FHSHWA02mem opened, has put 11 chips into the pot.
+Player FHSHWA01reflex raised to 12 chips.
+Player FHSHWA01reflex raised to 12 chips.
+Opponents predicted hand: 30
+My hand: 24
+Player FHSHWA02mem called.
+Player FHSHWA02mem called.
+throw card action True the cards to throw ['5h', '6h', '8c', '9d']
+Player FHSHWA02mem exchanged 4 cards.'Qs', 'Ts', 'Js']
+Player FHSHWA02mem exchanged 4 cards.
+throw card action True the cards to throw ['2s', '7h', 'Qc']
+Player FHSHWA01reflex hand ['Kh', '2c', '3d', 'Kd', 'Kc']
+Player FHSHWA01reflex exchanged 3 cards.
+Player FHSHWA02mem opened, has put 13 chips into the pot.
+Player FHSHWA01reflex raised to 14 chips.
+Opponents predicted hand: 51
+My hand: 26
+Player FHSHWA02mem called.
+Player FHSHWA02mem called.
+Player FHSHWA01reflex hand ['Kh', '2c', '3d', 'Kd', 'Kc']
+Player FHSHWA02mem hand ['Ah', '4c', 'Qs', 'Ts', 'Js']
+Player FHSHWA01reflex hand ['Kh', '2c', '3d', 'Kd', 'Kc']
+Player FHSHWA01reflex won 28 chips.
+Player FHSHWA02mem hand ['Ah', '4c', 'Qs', 'Ts', 'Js']
+Player FHSHWA01reflex won 28 chips.
+
+ Starting Round: 11
+The player FHSHWA01reflex has 226chips
+The player FHSHWA01reflex has 226chips
+The player FHSHWA02mem has 174chips
+The player FHSHWA02mem has 174chips
+Player FHSHWA01reflex hand ['Jc', '2h', '6d', 'Kd', 'Js']
+The ante is: 20
+Player FHSHWA01reflex made a forced bet of 20 chips.
+Player FHSHWA02mem made a forced bet of 20 chips.
+Player FHSHWA01reflex opened, has put 21 chips into the pot.
+Opponents predicted hand: 39
+My hand: 25
+Player FHSHWA02mem called.
+throw card action True the cards to throw ['2h', '6d', 'Kd']
+Player FHSHWA01reflex hand ['Jc', '2d', '9h', 'Th', 'Js']
+Player FHSHWA01reflex exchanged 3 cards.
+throw card action True the cards to throw ['5c', '7c', '9d', 'Ts']
+Player FHSHWA02mem hand ['As', '3d', '4h', 'Kh', '4d']
+Player FHSHWA02mem exchanged 4 cards.
+Player FHSHWA02mem exchanged 4 cards.
+Player FHSHWA01reflex opened, has put 22 chips into the pot.
+Opponents predicted hand: 31
+My hand: 29
+Player FHSHWA02mem called.
+Player FHSHWA01reflex hand ['Jc', '2d', '9h', 'Th', 'Js']
+Player FHSHWA02mem hand ['As', '3d', '4h', 'Kh', '4d']
+Player FHSHWA02mem hand ['As', '3d', '4h', 'Kh', '4d']
+Player FHSHWA01reflex won 44 chips.
+Player FHSHWA01reflex won 44 chips.
+
+ Starting Round: 12
+The player FHSHWA01reflex has 248chips
+The player FHSHWA01reflex has 248chips
+The player FHSHWA02mem has 152chips
+The player FHSHWA02mem has 152chips
+Player FHSHWA02mem hand ['2c', '2h', '5d', 'Qd', 'Ts']h']
+Player FHSHWA02mem made a forced bet of 20 chips.ps.
+Player FHSHWA02mem opened, has put 21 chips into the pot.
+Player FHSHWA01reflex called.
+Player FHSHWA01reflex called.
+throw card action True the cards to throw ['5d', 'Ts', 'Qd']
+Player FHSHWA02mem hand ['2c', '2h', '8c', '7h', '6s']
+Player FHSHWA02mem exchanged 3 cards.
+Player FHSHWA02mem exchanged 3 cards.
+throw card action True the cards to throw ['4h', 'Kd', 'Ah']
+Player FHSHWA01reflex exchanged 3 cards.'5s', '5h', 'Ks']
+Player FHSHWA01reflex exchanged 3 cards.
+Player FHSHWA02mem opened, has put 22 chips into the pot.
+Player FHSHWA02mem opened, has put 22 chips into the pot.
+Player FHSHWA01reflex called.
+Player FHSHWA01reflex called.
+Player FHSHWA01reflex hand ['6c', '3h', '5s', '5h', 'Ks']
+Player FHSHWA02mem hand ['2c', '2h', '8c', '7h', '6s']
+Player FHSHWA01reflex hand ['6c', '3h', '5s', '5h', 'Ks']
+Player FHSHWA02mem hand ['2c', '2h', '8c', '7h', '6s']
+Player FHSHWA01reflex won 44 chips.
+Player FHSHWA01reflex won 44 chips.
+
+ Starting Round: 13
+
+ Starting Round: 13
+The player FHSHWA01reflex has 270chips
+The player FHSHWA01reflex has 270chips
+The player FHSHWA02mem has 130chips
+The player FHSHWA02mem has 130chips
+Player FHSHWA01reflex hand ['Jd', 'Js', 'Ad', 'Jh', 'Qd']
+Player FHSHWA02mem hand ['7c', '2d', '6h', '8s', '7d']
+Player FHSHWA01reflex made a forced bet of 20 chips.
+Player FHSHWA01reflex opened, has put 21 chips into the pot.
+Player FHSHWA01reflex opened, has put 21 chips into the pot.
+Opponents predicted hand: 34
+My hand: 32
+Player FHSHWA02mem called.
+throw card action True the cards to throw ['Qd', 'Ad']
+Player FHSHWA01reflex exchanged 2 cards.'5d', 'Jh', 'Ts']
+Player FHSHWA01reflex exchanged 2 cards.
+throw card action True the cards to throw ['2d', '6h', '8s']
+Player FHSHWA02mem hand ['7c', 'Td', '4h', '3h', '7d']
+Player FHSHWA02mem exchanged 3 cards.
+Player FHSHWA02mem exchanged 3 cards.
+Player FHSHWA01reflex opened, has put 22 chips into the pot.
+Player FHSHWA01reflex opened, has put 22 chips into the pot.
+Opponents predicted hand: 34
+My hand: 32
+Player FHSHWA02mem called.
+Player FHSHWA02mem called.
+Player FHSHWA01reflex hand ['Jd', 'Js', '5d', 'Jh', 'Ts']
+Player FHSHWA01reflex hand ['Jd', 'Js', '5d', 'Jh', 'Ts']
+Player FHSHWA02mem hand ['7c', 'Td', '4h', '3h', '7d']
+Player FHSHWA02mem hand ['7c', 'Td', '4h', '3h', '7d']
+Player FHSHWA01reflex won 44 chips.
+Player FHSHWA01reflex won 44 chips.
+
+ Starting Round: 14
+The player FHSHWA01reflex has 292chips
+The player FHSHWA02mem has 108chips
+Player FHSHWA01reflex hand ['Kh', '2c', '2d', 'Ks', '3h']
+Player FHSHWA02mem hand ['Kc', 'Ah', 'Jh', '6d', 'Qs']
+Player FHSHWA02mem made a forced bet of 20 chips.ps.
+Player FHSHWA02mem opened, has put 21 chips into the pot.
+Player FHSHWA02mem opened, has put 21 chips into the pot.
+Player FHSHWA01reflex raised to 22 chips.
+Opponents predicted hand: 30
+My hand: 26
+Player FHSHWA02mem called.
+throw card action True the cards to throw ['6d']
+Player FHSHWA02mem hand ['Kc', 'Ah', 'Jh', '8d', 'Qs']
+Player FHSHWA02mem exchanged 1 cards.
+Player FHSHWA02mem exchanged 1 cards.
+throw card action True the cards to throw ['3h']
+Player FHSHWA01reflex exchanged 1 cards.'2d', 'Ks', '7s']
+Player FHSHWA01reflex exchanged 1 cards.
+Player FHSHWA02mem opened, has put 23 chips into the pot.
+Player FHSHWA02mem opened, has put 23 chips into the pot.
+Player FHSHWA01reflex raised to 24 chips.
+Opponents predicted hand: 32
+My hand: 26
+Player FHSHWA02mem called.
+Player FHSHWA02mem called.
+Player FHSHWA01reflex hand ['Kh', '2c', '2d', 'Ks', '7s']
+Player FHSHWA02mem hand ['Kc', 'Ah', 'Jh', '8d', 'Qs']
+Player FHSHWA01reflex hand ['Kh', '2c', '2d', 'Ks', '7s']
+Player FHSHWA01reflex won 48 chips.
+Player FHSHWA02mem hand ['Kc', 'Ah', 'Jh', '8d', 'Qs']
+Player FHSHWA01reflex won 48 chips.
+
+ Starting Round: 15
+The player FHSHWA01reflex has 316chips
+The player FHSHWA01reflex has 316chips
+The player FHSHWA02mem has 84chips
+The player FHSHWA02mem has 84chips
+Player FHSHWA02mem hand ['8c', '2h', 'Ad', '7h', '5c']d']
+Player FHSHWA01reflex made a forced bet of 20 chips.
+Player FHSHWA01reflex opened, has put 21 chips into the pot.
+Player FHSHWA01reflex opened, has put 21 chips into the pot.
+Opponents predicted hand: 51
+My hand: 26
+Player FHSHWA02mem called.
+
+ Starting Round: 1
+The player FHSHWA02mem has 200chips
+The player FHSHWA01mem has 200chips
+The player FHSHWA01mem has 200chips
+Player FHSHWA01mem hand ['Qd', 'As', '5h', 'Qc', '6h']
+The ante is: 10
+Player FHSHWA02mem made a forced bet of 10 chips.
+Player FHSHWA02mem opened, has put 11 chips into the pot.
+Opponents predicted hand: 32
+My hand: 37
+Player FHSHWA01mem raised to 12 chips.
+Opponents predicted hand: 27
+My hand: 21
+Player FHSHWA02mem called.
+throw card action True the cards to throw ['9d']
+Player FHSHWA02mem exchanged 1 cards.'3s', '2s', '4h']
+throw card action True the cards to throw ['5h', '6h', 'As']
+Player FHSHWA01mem exchanged 3 cards.'Jc', 'Qc', 'Jd']
+Player FHSHWA01mem exchanged 3 cards.
+Player FHSHWA02mem opened, has put 13 chips into the pot.
+Player FHSHWA02mem opened, has put 13 chips into the pot.
+Opponents predicted hand: 51
+My hand: 50
+Player FHSHWA01mem called.
+Player FHSHWA02mem hand ['5d', '5c', '3s', '2s', '4h']
+Player FHSHWA02mem hand ['5d', '5c', '3s', '2s', '4h']
+Player FHSHWA01mem hand ['Qd', 'Kd', 'Jc', 'Qc', 'Jd']
+Player FHSHWA01mem hand ['Qd', 'Kd', 'Jc', 'Qc', 'Jd']
+Player FHSHWA01mem won 26 chips.
+
+ Starting Round: 2
+
+ Starting Round: 2
+The player FHSHWA02mem has 187chips
+The player FHSHWA01mem has 213chips
+Player FHSHWA02mem hand ['2h', 'Qs', '7c', '3c', 'Kh']
+Player FHSHWA01mem made a forced bet of 10 chips.
+Player FHSHWA02mem made a forced bet of 10 chips.
+Player FHSHWA01mem opened, has put 11 chips into the pot.
+Opponents predicted hand: 31
+My hand: 25
+Player FHSHWA02mem called.
+throw card action True the cards to throw ['3h', '4d', '7h', '8c']
+Player FHSHWA01mem hand ['Kd', 'Qc', 'Th', '6s', 'Td']
+Player FHSHWA01mem exchanged 4 cards.
+Player FHSHWA01mem exchanged 4 cards.
+throw card action True the cards to throw ['2h', '3c', '7c', 'Qs']
+Player FHSHWA02mem hand ['5h', '6c', '4h', '9h', 'Kh']
+Player FHSHWA02mem exchanged 4 cards.
+Player FHSHWA02mem exchanged 4 cards.
+Player FHSHWA01mem opened, has put 12 chips into the pot.
+Opponents predicted hand: 29
+My hand: 25
+Player FHSHWA02mem called.
+Player FHSHWA02mem hand ['5h', '6c', '4h', '9h', 'Kh']
+Player FHSHWA01mem hand ['Kd', 'Qc', 'Th', '6s', 'Td']
+Player FHSHWA02mem hand ['5h', '6c', '4h', '9h', 'Kh']
+Player FHSHWA01mem won 24 chips.
+Player FHSHWA01mem hand ['Kd', 'Qc', 'Th', '6s', 'Td']
+Player FHSHWA01mem won 24 chips.
+
+ Starting Round: 3
+The player FHSHWA02mem has 175chips
+The player FHSHWA01mem has 225chips
+The player FHSHWA01mem has 225chips
+Player FHSHWA02mem hand ['6c', 'Jc', '2d', '8s', '4h']
+Player FHSHWA01mem hand ['Kh', '6s', '9h', 'Ts', '6h']
+Player FHSHWA02mem made a forced bet of 10 chips.
+Player FHSHWA01mem made a forced bet of 10 chips.
+Player FHSHWA02mem opened, has put 11 chips into the pot.
+Opponents predicted hand: 42
+My hand: 31
+Player FHSHWA01mem called.
+throw card action True the cards to throw ['2d', '4h', '6c', '8s']
+Player FHSHWA02mem hand ['5s', 'Jc', 'Qd', 'Qs', '2s']
+Player FHSHWA02mem exchanged 4 cards.
+Player FHSHWA02mem exchanged 4 cards.
+throw card action True the cards to throw ['9h', 'Ts', 'Kh']
+Player FHSHWA01mem hand ['Qc', '6s', 'Jh', '5d', '6h']
+Player FHSHWA01mem exchanged 3 cards.
+Player FHSHWA01mem exchanged 3 cards.
+Player FHSHWA02mem opened, has put 12 chips into the pot.
+Opponents predicted hand: 27
+My hand: 31
+Player FHSHWA01mem raised to 13 chips.
+Player FHSHWA01mem raised to 13 chips.
+Opponents predicted hand: 27
+My hand: 37
+Player FHSHWA02mem raised to 14 chips.
+Opponents predicted hand: 34
+My hand: 31
+Player FHSHWA01mem called.
+Player FHSHWA02mem hand ['5s', 'Jc', 'Qd', 'Qs', '2s']
+Player FHSHWA02mem hand ['5s', 'Jc', 'Qd', 'Qs', '2s']
+Player FHSHWA01mem hand ['Qc', '6s', 'Jh', '5d', '6h']
+Player FHSHWA02mem won 28 chips.
+Player FHSHWA01mem hand ['Qc', '6s', 'Jh', '5d', '6h']
+Player FHSHWA02mem won 28 chips.
+
+ Starting Round: 4
+The player FHSHWA02mem has 189chips
+The player FHSHWA01mem has 211chips
+Player FHSHWA02mem hand ['Jc', '5d', '3h', '6d', 'Th']
+Player FHSHWA01mem made a forced bet of 10 chips.
+Player FHSHWA01mem opened, has put 11 chips into the pot.
+Opponents predicted hand: 31
+My hand: 23
+Player FHSHWA02mem called.
+throw card action True the cards to throw ['5c']
+Player FHSHWA01mem hand ['Tc', '9s', '4d', '4c', '9d']
+Player FHSHWA01mem exchanged 1 cards.
+throw card action True the cards to throw ['3h', '5d', '6d', 'Th']
+Player FHSHWA02mem exchanged 4 cards.'Ts', '8s', '4h']
+Player FHSHWA02mem exchanged 4 cards.
+Player FHSHWA01mem opened, has put 12 chips into the pot.
+Player FHSHWA01mem opened, has put 12 chips into the pot.
+Opponents predicted hand: 29
+My hand: 23
+Player FHSHWA02mem called.
+Player FHSHWA02mem called.
+Player FHSHWA02mem hand ['Jc', '6c', 'Ts', '8s', '4h']
+Player FHSHWA01mem hand ['Tc', '9s', '4d', '4c', '9d']
+Player FHSHWA02mem hand ['Jc', '6c', 'Ts', '8s', '4h']
+Player FHSHWA01mem won 24 chips.
+Player FHSHWA01mem hand ['Tc', '9s', '4d', '4c', '9d']
+Player FHSHWA01mem won 24 chips.
+
+ Starting Round: 5
+The player FHSHWA02mem has 177chips
+The player FHSHWA02mem has 177chips
+The player FHSHWA01mem has 223chips
+The player FHSHWA01mem has 223chips
+Player FHSHWA01mem hand ['Ac', 'Kd', 'Qh', '7d', '3c']
+Player FHSHWA01mem made a forced bet of 10 chips.
+Player FHSHWA02mem opened, has put 11 chips into the pot.
+Player FHSHWA02mem opened, has put 11 chips into the pot.
+Opponents predicted hand: 40
+My hand: 26
+Player FHSHWA01mem called.
+Player FHSHWA01mem called.
+throw card action True the cards to throw ['6h']
+Player FHSHWA02mem hand ['3s', 'Ad', '2d', '4c', 'Qs']
+Player FHSHWA02mem exchanged 1 cards.
+throw card action True the cards to throw ['3c', '7d', 'Qh', 'Kd']
+Player FHSHWA01mem hand ['Ac', '9h', '8s', 'Th', '3h']
+Player FHSHWA01mem exchanged 4 cards.
+Player FHSHWA02mem opened, has put 12 chips into the pot.
+Player FHSHWA02mem opened, has put 12 chips into the pot.
+Opponents predicted hand: 39
+My hand: 26
+Player FHSHWA01mem called.
+Player FHSHWA02mem hand ['3s', 'Ad', '2d', '4c', 'Qs']
+Player FHSHWA02mem hand ['3s', 'Ad', '2d', '4c', 'Qs']
+Player FHSHWA01mem hand ['Ac', '9h', '8s', 'Th', '3h']
+Player FHSHWA02mem won 12 chips.
+Player FHSHWA01mem won 12 chips.
+Player FHSHWA01mem hand ['Ac', '9h', '8s', 'Th', '3h']
+Player FHSHWA02mem won 12 chips.
+Player FHSHWA01mem won 12 chips.
+
+ Starting Round: 6
+
+ Starting Round: 6
+The player FHSHWA02mem has 177chips
+The player FHSHWA01mem has 223chips
+The player FHSHWA01mem has 223chips
+Player FHSHWA02mem hand ['5s', '3h', '9d', '3d', 'Qd']
+Player FHSHWA01mem made a forced bet of 10 chips.
+Player FHSHWA02mem made a forced bet of 10 chips.
+Player FHSHWA01mem opened, has put 11 chips into the pot.
+Opponents predicted hand: 29
+My hand: 28
+Player FHSHWA02mem called.
+throw card action True the cards to throw ['6d', '7d', 'Tc']
+Player FHSHWA01mem hand ['2s', 'Ad', '9h', '4s', 'Ah']
+Player FHSHWA01mem exchanged 3 cards.
+throw card action True the cards to throw ['5s', '9d', 'Qd']
+Player FHSHWA02mem hand ['7h', '3h', 'Ac', '3d', '4c']
+Player FHSHWA02mem exchanged 3 cards.
+Player FHSHWA02mem exchanged 3 cards.
+Player FHSHWA01mem opened, has put 12 chips into the pot.
+Opponents predicted hand: 30
+My hand: 28
+Player FHSHWA02mem called.
+Player FHSHWA02mem called.
+Player FHSHWA02mem hand ['7h', '3h', 'Ac', '3d', '4c']
+Player FHSHWA01mem hand ['2s', 'Ad', '9h', '4s', 'Ah']
+Player FHSHWA01mem won 24 chips.
+Player FHSHWA02mem hand ['7h', '3h', 'Ac', '3d', '4c']
+Player FHSHWA01mem hand ['2s', 'Ad', '9h', '4s', 'Ah']
+Player FHSHWA01mem won 24 chips.
+
+ Starting Round: 7
+
+ Starting Round: 7
+The player FHSHWA02mem has 165chips
+The player FHSHWA02mem has 165chips
+The player FHSHWA01mem has 235chips
+The player FHSHWA01mem has 235chips
+Player FHSHWA02mem hand ['Qc', 'Tc', '4d', '2c', '9d']
+Player FHSHWA02mem made a forced bet of 10 chips.
+Player FHSHWA01mem made a forced bet of 10 chips.
+Player FHSHWA02mem opened, has put 11 chips into the pot.
+Player FHSHWA02mem opened, has put 11 chips into the pot.
+Opponents predicted hand: 41
+My hand: 35
+Player FHSHWA01mem called.
+Player FHSHWA01mem called.
+throw card action True the cards to throw ['2c', '4d', '9d', 'Tc']
+Player FHSHWA02mem hand ['Qc', 'Jc', '8s', 'Qh', '3c']
+Player FHSHWA02mem exchanged 4 cards.
+Player FHSHWA02mem exchanged 4 cards.
+throw card action True the cards to throw ['3s', '5s', 'Qd']
+Player FHSHWA01mem hand ['Th', 'Kc', '8h', '8c', 'Td']
+Player FHSHWA01mem exchanged 3 cards.
+Player FHSHWA01mem exchanged 3 cards.
+Player FHSHWA02mem opened, has put 12 chips into the pot.
+Opponents predicted hand: 34
+My hand: 48
+Player FHSHWA01mem raised to 13 chips.
+Opponents predicted hand: 29
+My hand: 37
+Player FHSHWA02mem raised to 14 chips.
+Opponents predicted hand: 35
+My hand: 48
+Player FHSHWA01mem raised to 15 chips.
+Opponents predicted hand: 36
+My hand: 37
+Player FHSHWA02mem raised to 16 chips.
+Player FHSHWA02mem raised to 16 chips.
+Opponents predicted hand: 31
+My hand: 48
+Player FHSHWA01mem raised to 66 chips.
+Player FHSHWA01mem raised to 66 chips.
+Opponents predicted hand: 51
+My hand: 37
+Player FHSHWA02mem called.
+Player FHSHWA02mem called.
+Player FHSHWA02mem hand ['Qc', 'Jc', '8s', 'Qh', '3c']
+Player FHSHWA02mem hand ['Qc', 'Jc', '8s', 'Qh', '3c']
+Player FHSHWA01mem hand ['Th', 'Kc', '8h', '8c', 'Td']
+Player FHSHWA01mem hand ['Th', 'Kc', '8h', '8c', 'Td']
+Player FHSHWA01mem won 132 chips.
+Player FHSHWA01mem won 132 chips.
+
+ Starting Round: 8
+
+ Starting Round: 8
+The player FHSHWA02mem has 99chips
+The player FHSHWA02mem has 99chips
+The player FHSHWA01mem has 301chips
+The player FHSHWA01mem has 301chips
+Player FHSHWA02mem hand ['8c', 'Ad', '8h', '4d', 'Kd']
+Player FHSHWA01mem hand ['9d', '2c', 'Ks', '3d', '2d']
+Player FHSHWA01mem made a forced bet of 10 chips.
+Player FHSHWA02mem made a forced bet of 10 chips.
+Player FHSHWA01mem opened, has put 11 chips into the pot.
+Opponents predicted hand: 26
+My hand: 33
+Player FHSHWA02mem raised to 12 chips.
+Opponents predicted hand: 25
+My hand: 27
+Player FHSHWA01mem raised to 13 chips.
+Player FHSHWA01mem raised to 13 chips.
+Opponents predicted hand: 25
+My hand: 33
+Player FHSHWA02mem raised to 14 chips.
+Player FHSHWA02mem raised to 14 chips.
+Opponents predicted hand: 34
+My hand: 27
+Player FHSHWA01mem called.
+throw card action True the cards to throw ['3d', '9d', 'Ks']
+Player FHSHWA01mem hand ['3h', '2c', 'Jc', 'Kh', '2d']
+Player FHSHWA01mem exchanged 3 cards.
+Player FHSHWA01mem exchanged 3 cards.
+throw card action True the cards to throw ['4d', 'Kd', 'Ad']
+Player FHSHWA02mem hand ['8c', 'Qc', '8h', '6h', 'Jh']
+Player FHSHWA02mem exchanged 3 cards.
+Player FHSHWA02mem exchanged 3 cards.
+Player FHSHWA01mem opened, has put 15 chips into the pot.
+Opponents predicted hand: 28
+My hand: 33
+Player FHSHWA02mem raised to 16 chips.
+Player FHSHWA02mem raised to 16 chips.
+Opponents predicted hand: 38
+My hand: 27
+Player FHSHWA01mem called.
+Player FHSHWA01mem called.
+Player FHSHWA02mem hand ['8c', 'Qc', '8h', '6h', 'Jh']
+Player FHSHWA02mem hand ['8c', 'Qc', '8h', '6h', 'Jh']
+Player FHSHWA01mem hand ['3h', '2c', 'Jc', 'Kh', '2d']
+Player FHSHWA02mem won 32 chips.
+Player FHSHWA01mem hand ['3h', '2c', 'Jc', 'Kh', '2d']
+Player FHSHWA02mem won 32 chips.
+
+ Starting Round: 9
+The player FHSHWA02mem has 115chips
+The player FHSHWA01mem has 285chips
+Player FHSHWA02mem hand ['9h', '9s', '5h', '4c', '8h']
+Player FHSHWA01mem hand ['6s', '2c', '4h', '2s', '2h']
+Player FHSHWA01mem made a forced bet of 10 chips.
+Player FHSHWA02mem opened, has put 11 chips into the pot.
+Player FHSHWA02mem opened, has put 11 chips into the pot.
+Opponents predicted hand: 31
+My hand: 53
+Player FHSHWA01mem raised to 82 chips.
+Player FHSHWA02mem folded.
+Player FHSHWA02mem folded.
+Player FHSHWA01mem won 93 chips undisputed.
+Player FHSHWA01mem won 93 chips undisputed.
+
+ Starting Round: 10
+
+ Starting Round: 10
+The player FHSHWA02mem has 104chips
+The player FHSHWA02mem has 104chips
+The player FHSHWA01mem has 296chips
+The player FHSHWA01mem has 296chips
+Player FHSHWA02mem hand ['6d', 'As', 'Kh', '9c', '3d']
+Player FHSHWA01mem hand ['Qh', '8d', '8c', '6c', 'Qd']
+Player FHSHWA01mem made a forced bet of 10 chips.
+Player FHSHWA02mem made a forced bet of 10 chips.
+Player FHSHWA01mem opened, has put 11 chips into the pot.
+Opponents predicted hand: 25
+My hand: 26
+Player FHSHWA02mem raised to 12 chips.
+Player FHSHWA02mem raised to 12 chips.
+Opponents predicted hand: 25
+My hand: 50
+Player FHSHWA01mem raised to 85 chips.
+Player FHSHWA01mem raised to 85 chips.
+Player FHSHWA02mem folded.
+Player FHSHWA01mem won 97 chips undisputed.
+Player FHSHWA01mem won 97 chips undisputed.
+
+ Starting Round: 11
+
+ Starting Round: 11
+The player FHSHWA02mem has 92chips
+The player FHSHWA02mem has 92chips
+The player FHSHWA01mem has 308chips
+The player FHSHWA01mem has 308chips
+Player FHSHWA02mem hand ['2d', '9d', 'Qd', '9s', '4c']
+Player FHSHWA01mem hand ['7h', '4h', 'Ah', 'Kd', 'Kc']
+The ante is: 20
+Player FHSHWA02mem made a forced bet of 20 chips.
+Player FHSHWA01mem made a forced bet of 20 chips.
+Player FHSHWA02mem opened, has put 21 chips into the pot.
+Opponents predicted hand: 26
+My hand: 38
+Player FHSHWA01mem raised to 22 chips.
+Player FHSHWA01mem raised to 22 chips.
+Opponents predicted hand: 39
+My hand: 34
+Player FHSHWA02mem called.
+Player FHSHWA02mem called.
+throw card action True the cards to throw ['2d', '4c', 'Qd']
+Player FHSHWA02mem hand ['4d', '9d', 'Th', '9s', 'Jh']
+Player FHSHWA02mem exchanged 3 cards.
+Player FHSHWA02mem exchanged 3 cards.
+throw card action True the cards to throw ['4h', '7h', 'Ah']
+Player FHSHWA01mem hand ['7d', '5s', 'Qh', 'Kd', 'Kc']
+Player FHSHWA01mem exchanged 3 cards.
+Player FHSHWA01mem exchanged 3 cards.
+Player FHSHWA02mem opened, has put 23 chips into the pot.
+Player FHSHWA02mem opened, has put 23 chips into the pot.
+Opponents predicted hand: 38
+My hand: 38
+Player FHSHWA01mem raised to 24 chips.
+Player FHSHWA01mem raised to 24 chips.
+Opponents predicted hand: 34
+My hand: 34
+Player FHSHWA02mem raised to 25 chips.
+Opponents predicted hand: 39
+My hand: 38
+Player FHSHWA01mem called.
+Player FHSHWA01mem called.
+Player FHSHWA02mem hand ['4d', '9d', 'Th', '9s', 'Jh']
+Player FHSHWA02mem hand ['4d', '9d', 'Th', '9s', 'Jh']
+Player FHSHWA01mem hand ['7d', '5s', 'Qh', 'Kd', 'Kc']
+Player FHSHWA01mem hand ['7d', '5s', 'Qh', 'Kd', 'Kc']
+Player FHSHWA01mem won 50 chips.
+Player FHSHWA01mem won 50 chips.
+
+ Starting Round: 12
+
+ Starting Round: 12
+The player FHSHWA02mem has 67chips
+The player FHSHWA02mem has 67chips
+The player FHSHWA01mem has 333chips
+The player FHSHWA01mem has 333chips
+Player FHSHWA02mem hand ['4c', 'Qs', '9d', '8s', '7c']
+Player FHSHWA01mem hand ['9s', '6s', 'Qd', 'As', 'Kh']
+Player FHSHWA01mem made a forced bet of 20 chips.
+Player FHSHWA02mem made a forced bet of 20 chips.
+Player FHSHWA01mem opened, has put 21 chips into the pot.
+Player FHSHWA01mem opened, has put 21 chips into the pot.
+Opponents predicted hand: 33
+My hand: 24
+Player FHSHWA02mem called.
+throw card action True the cards to throw ['6s', '9s', 'Qd', 'Kh']
+Player FHSHWA01mem hand ['Qh', 'Jc', 'Jh', 'As', '3d']
+Player FHSHWA01mem exchanged 4 cards.
+throw card action True the cards to throw ['4c']
+Player FHSHWA02mem hand ['9h', 'Qs', '9d', '8s', '7c']
+Player FHSHWA02mem exchanged 1 cards.
+Player FHSHWA02mem exchanged 1 cards.
+Player FHSHWA01mem opened, has put 22 chips into the pot.
+Player FHSHWA01mem opened, has put 22 chips into the pot.
+Opponents predicted hand: 45
+My hand: 34
+Player FHSHWA02mem called.
+Player FHSHWA02mem called.
+Player FHSHWA02mem hand ['9h', 'Qs', '9d', '8s', '7c']
+Player FHSHWA02mem hand ['9h', 'Qs', '9d', '8s', '7c']
+Player FHSHWA01mem hand ['Qh', 'Jc', 'Jh', 'As', '3d']
+Player FHSHWA01mem hand ['Qh', 'Jc', 'Jh', 'As', '3d']
+Player FHSHWA01mem won 44 chips.
+Player FHSHWA01mem won 44 chips.
+
+ Starting Round: 13
+
+ Starting Round: 13
+The player FHSHWA02mem has 45chips
+The player FHSHWA02mem has 45chips
+The player FHSHWA01mem has 355chips
+The player FHSHWA01mem has 355chips
+Player FHSHWA02mem hand ['4c', '5d', '3d', 'Js', 'Jc']
+Player FHSHWA01mem hand ['As', 'Td', '8d', '2d', '9h']
+Player FHSHWA01mem made a forced bet of 20 chips.
+Player FHSHWA02mem made a forced bet of 20 chips.
+Player FHSHWA02mem opened, has put 21 chips into the pot.
+Player FHSHWA02mem opened, has put 21 chips into the pot.
+Opponents predicted hand: 54
+My hand: 26
+Player FHSHWA01mem called.
+Player FHSHWA01mem called.
+throw card action True the cards to throw ['3d', '4c', '5d']
+Player FHSHWA02mem hand ['6c', 'Tc', 'Ts', 'Js', 'Jc']
+Player FHSHWA02mem exchanged 3 cards.
+Player FHSHWA02mem exchanged 3 cards.
+throw card action True the cards to throw ['2d']
+Player FHSHWA01mem hand ['As', 'Td', '8d', '6h', '9h']
+Player FHSHWA01mem exchanged 1 cards.
+Player FHSHWA02mem opened, has put 22 chips into the pot.
+Player FHSHWA02mem opened, has put 22 chips into the pot.
+Opponents predicted hand: 54
+My hand: 26
+Player FHSHWA01mem called.
+Player FHSHWA02mem hand ['6c', 'Tc', 'Ts', 'Js', 'Jc']
+Player FHSHWA01mem hand ['As', 'Td', '8d', '6h', '9h']
+Player FHSHWA02mem won 44 chips.
+Player FHSHWA01mem hand ['As', 'Td', '8d', '6h', '9h']
+Player FHSHWA02mem won 44 chips.
+
+ Starting Round: 14
+The player FHSHWA02mem has 67chips
+The player FHSHWA02mem has 67chips
+The player FHSHWA01mem has 333chips
+Player FHSHWA01mem hand ['Tc', '3c', '7h', '7c', '8c']
+Player FHSHWA01mem made a forced bet of 20 chips.
+Player FHSHWA02mem made a forced bet of 20 chips.
+Player FHSHWA01mem opened, has put 21 chips into the pot.
+Player FHSHWA01mem opened, has put 21 chips into the pot.
+Opponents predicted hand: 33
+My hand: 25
+Player FHSHWA02mem called.
+throw card action True the cards to throw ['3c', '8c', 'Tc']
+Player FHSHWA01mem hand ['4c', '3h', '7h', '7c', '5d']
+Player FHSHWA01mem exchanged 3 cards.
+Player FHSHWA01mem exchanged 3 cards.
+throw card action True the cards to throw ['Kd']
+Player FHSHWA02mem exchanged 1 cards.'9s', '9h', '8d']
+Player FHSHWA02mem exchanged 1 cards.
+Player FHSHWA01mem opened, has put 22 chips into the pot.
+Player FHSHWA01mem opened, has put 22 chips into the pot.
+Opponents predicted hand: 46
+My hand: 34
+Player FHSHWA02mem called.
+Player FHSHWA02mem hand ['Td', '7d', '9s', '9h', '8d']
+Player FHSHWA01mem hand ['4c', '3h', '7h', '7c', '5d']
+Player FHSHWA02mem hand ['Td', '7d', '9s', '9h', '8d']
+Player FHSHWA01mem hand ['4c', '3h', '7h', '7c', '5d']
+Player FHSHWA02mem won 44 chips.
+Player FHSHWA02mem won 44 chips.
+
+ Starting Round: 15
+
+ Starting Round: 15
+The player FHSHWA02mem has 89chips
+The player FHSHWA02mem has 89chips
+The player FHSHWA01mem has 311chips
+The player FHSHWA01mem has 311chips
+Player FHSHWA01mem hand ['Jd', 'Jc', '4h', 'Kd', '6h']
+Player FHSHWA02mem made a forced bet of 20 chips.
+Player FHSHWA01mem made a forced bet of 20 chips.
+Player FHSHWA02mem opened, has put 21 chips into the pot.
+Player FHSHWA02mem opened, has put 21 chips into the pot.
+Opponents predicted hand: 38
+My hand: 36
+Player FHSHWA01mem called.
+throw card action True the cards to throw ['3c', '7h', '9d']
+Player FHSHWA02mem hand ['7c', 'Th', 'Kc', 'As', 'Ah']
+Player FHSHWA02mem exchanged 3 cards.
+Player FHSHWA02mem exchanged 3 cards.
+throw card action True the cards to throw ['4h', '6h', 'Kd']
+Player FHSHWA01mem hand ['Jd', 'Jc', 'Ks', '8s', '2c']
+Player FHSHWA01mem exchanged 3 cards.
+Player FHSHWA01mem exchanged 3 cards.
+Player FHSHWA02mem opened, has put 22 chips into the pot.
+Player FHSHWA02mem opened, has put 22 chips into the pot.
+Opponents predicted hand: 38
+My hand: 36
+Player FHSHWA01mem called.
+Player FHSHWA01mem called.
+Player FHSHWA02mem hand ['7c', 'Th', 'Kc', 'As', 'Ah']
+Player FHSHWA02mem hand ['7c', 'Th', 'Kc', 'As', 'Ah']
+Player FHSHWA01mem hand ['Jd', 'Jc', 'Ks', '8s', '2c']
+Player FHSHWA02mem won 44 chips.
+Player FHSHWA01mem hand ['Jd', 'Jc', 'Ks', '8s', '2c']
+Player FHSHWA02mem won 44 chips.
+
+ Starting Round: 16
+
+ Starting Round: 16
+The player FHSHWA02mem has 111chips
+The player FHSHWA02mem has 111chips
+The player FHSHWA01mem has 289chips
+The player FHSHWA01mem has 289chips
+Player FHSHWA01mem hand ['7c', '7d', '5h', 'Ad', 'Th']
+Player FHSHWA01mem made a forced bet of 20 chips.
+Player FHSHWA02mem made a forced bet of 20 chips.
+Player FHSHWA01mem opened, has put 21 chips into the pot.
+Opponents predicted hand: 38
+My hand: 22
+Player FHSHWA02mem called.
+Player FHSHWA02mem called.
+throw card action True the cards to throw ['5h', 'Th', 'Ad']
+Player FHSHWA01mem hand ['7c', '7d', 'Td', '4s', '7h']
+Player FHSHWA01mem exchanged 3 cards.
+Player FHSHWA01mem exchanged 3 cards.
+throw card action True the cards to throw ['3d']
+Player FHSHWA02mem hand ['3s', '9s', 'Ts', '7s', '8s']
+Player FHSHWA02mem exchanged 1 cards.
+Player FHSHWA02mem exchanged 1 cards.
+Player FHSHWA01mem opened, has put 22 chips into the pot.
+Player FHSHWA01mem opened, has put 22 chips into the pot.
+Opponents predicted hand: 29
+My hand: 87
+Player FHSHWA02mem raised to 27 chips.
+Player FHSHWA02mem raised to 27 chips.
+Opponents predicted hand: 38
+My hand: 58
+Player FHSHWA01mem raised to 80 chips.
+Player FHSHWA02mem folded.
+Player FHSHWA01mem won 107 chips undisputed.
+
+ Starting Round: 17
+The player FHSHWA02mem has 84chips
+The player FHSHWA02mem has 84chips
+The player FHSHWA01mem has 316chips
+The player FHSHWA01mem has 316chips
+Player FHSHWA02mem hand ['Ts', 'Tc', 'Qs', 'Kh', '7h']
+Player FHSHWA02mem made a forced bet of 20 chips.
+Player FHSHWA01mem made a forced bet of 20 chips.
+Player FHSHWA02mem opened, has put 21 chips into the pot.
+Opponents predicted hand: 38
+My hand: 25
+Player FHSHWA01mem called.
+throw card action True the cards to throw ['7h', 'Qs', 'Kh']
+Player FHSHWA02mem hand ['Ts', 'Tc', '8c', 'Th', '6s']
+Player FHSHWA02mem exchanged 3 cards.
+Player FHSHWA02mem exchanged 3 cards.
+throw card action True the cards to throw ['4h', '7d', 'Jh', 'Qh']
+Player FHSHWA01mem hand ['9s', '4c', 'Kd', '6d', '2h']
+Player FHSHWA01mem exchanged 4 cards.
+Player FHSHWA01mem exchanged 4 cards.
+Player FHSHWA02mem opened, has put 22 chips into the pot.
+Opponents predicted hand: 26
+My hand: 25
+Player FHSHWA01mem called.
+Player FHSHWA02mem hand ['Ts', 'Tc', '8c', 'Th', '6s']
+Player FHSHWA01mem hand ['9s', '4c', 'Kd', '6d', '2h']
+Player FHSHWA02mem won 44 chips.
+Player FHSHWA01mem hand ['9s', '4c', 'Kd', '6d', '2h']
+Player FHSHWA02mem won 44 chips.
+
+ Starting Round: 18
+The player FHSHWA02mem has 106chips
+The player FHSHWA02mem has 106chips
+The player FHSHWA01mem has 294chips
+The player FHSHWA01mem has 294chips
+Player FHSHWA02mem hand ['Qs', '9h', '2h', '3d', 'Ts']
+Player FHSHWA01mem hand ['5s', '8c', '6d', 'Td', '7h']
+Player FHSHWA01mem made a forced bet of 20 chips.
+Player FHSHWA02mem made a forced bet of 20 chips.
+Player FHSHWA01mem opened, has put 21 chips into the pot.
+Player FHSHWA01mem opened, has put 21 chips into the pot.
+Opponents predicted hand: 40
+My hand: 24
+Player FHSHWA02mem called.
+Player FHSHWA02mem called.
+throw card action True the cards to throw ['Td']
+Player FHSHWA01mem hand ['5s', '8c', '6d', 'Qd', '7h']
+Player FHSHWA01mem exchanged 1 cards.
+Player FHSHWA01mem exchanged 1 cards.
+throw card action True the cards to throw ['2h', '3d', '9h', 'Ts']
+Player FHSHWA02mem hand ['Qs', '5c', '9s', 'Jc', '4s']
+Player FHSHWA02mem exchanged 4 cards.
+Player FHSHWA02mem exchanged 4 cards.
+Player FHSHWA01mem opened, has put 22 chips into the pot.
+Opponents predicted hand: 35
+My hand: 24
+Player FHSHWA02mem called.
+Player FHSHWA02mem called.
+Player FHSHWA02mem hand ['Qs', '5c', '9s', 'Jc', '4s']
+Player FHSHWA01mem hand ['5s', '8c', '6d', 'Qd', '7h']
+Player FHSHWA01mem hand ['5s', '8c', '6d', 'Qd', '7h']
+Player FHSHWA02mem won 22 chips.
+Player FHSHWA02mem won 22 chips.
+Player FHSHWA01mem won 22 chips.
+Player FHSHWA01mem won 22 chips.
+
+ Starting Round: 19
+
+ Starting Round: 19
+The player FHSHWA02mem has 106chips
+The player FHSHWA02mem has 106chips
+The player FHSHWA01mem has 294chips
+The player FHSHWA01mem has 294chips
+Player FHSHWA02mem hand ['6s', '6d', 'Kh', '9c', '2h']
+Player FHSHWA02mem made a forced bet of 20 chips.
+Player FHSHWA02mem opened, has put 21 chips into the pot.
+Player FHSHWA02mem opened, has put 21 chips into the pot.
+Opponents predicted hand: 26
+My hand: 24
+Player FHSHWA01mem called.
+Player FHSHWA01mem called.
+throw card action True the cards to throw ['2h', '9c', 'Kh']
+Player FHSHWA02mem hand ['6s', '6d', '5h', '7d', '3d']
+Player FHSHWA02mem exchanged 3 cards.
+Player FHSHWA02mem exchanged 3 cards.
+throw card action True the cards to throw ['3c', '4d', '7c', 'Td']
+Player FHSHWA01mem exchanged 4 cards.'Qs', '6c', 'Ac']
+Player FHSHWA01mem exchanged 4 cards.
+Player FHSHWA02mem opened, has put 22 chips into the pot.
+Player FHSHWA02mem opened, has put 22 chips into the pot.
+Opponents predicted hand: 26
+My hand: 26
+Player FHSHWA01mem raised to 23 chips.
+Opponents predicted hand: 32
+My hand: 31
+Player FHSHWA02mem called.
+Player FHSHWA02mem called.
+Player FHSHWA02mem hand ['6s', '6d', '5h', '7d', '3d']
+Player FHSHWA02mem hand ['6s', '6d', '5h', '7d', '3d']
+Player FHSHWA01mem hand ['Ks', 'Jc', 'Qs', '6c', 'Ac']
+Player FHSHWA02mem won 46 chips.
+Player FHSHWA01mem hand ['Ks', 'Jc', 'Qs', '6c', 'Ac']
+Player FHSHWA02mem won 46 chips.
+
+ Starting Round: 20
+
+ Starting Round: 20
+The player FHSHWA02mem has 129chips
+The player FHSHWA02mem has 129chips
+The player FHSHWA01mem has 271chips
+The player FHSHWA01mem has 271chips
+Player FHSHWA02mem hand ['5c', '2h', 'Ah', '7c', 'Ks']
+Player FHSHWA01mem hand ['6d', '2s', 'As', '9d', '4s']
+Player FHSHWA02mem made a forced bet of 20 chips.
+Player FHSHWA01mem opened, has put 21 chips into the pot.
+Opponents predicted hand: 32
+My hand: 26
+Player FHSHWA02mem called.
+Player FHSHWA02mem called.
+throw card action True the cards to throw ['2s', '4s', '6d', '9d']
+Player FHSHWA01mem hand ['3c', '5h', 'As', '4h', 'Tc']
+Player FHSHWA01mem exchanged 4 cards.
+Player FHSHWA01mem exchanged 4 cards.
+throw card action True the cards to throw ['2h', '5c', '7c', 'Ks']
+Player FHSHWA02mem hand ['Ad', 'Kh', 'Ah', 'Th', '4d']
+Player FHSHWA02mem exchanged 4 cards.
+Player FHSHWA02mem exchanged 4 cards.
+Player FHSHWA01mem opened, has put 22 chips into the pot.
+Opponents predicted hand: 32
+My hand: 39
+Player FHSHWA02mem raised to 23 chips.
+Opponents predicted hand: 30
+My hand: 26
+Player FHSHWA01mem called.
+Player FHSHWA01mem called.
+Player FHSHWA02mem hand ['Ad', 'Kh', 'Ah', 'Th', '4d']
+Player FHSHWA02mem hand ['Ad', 'Kh', 'Ah', 'Th', '4d']
+Player FHSHWA01mem hand ['3c', '5h', 'As', '4h', 'Tc']
+Player FHSHWA02mem won 46 chips.
+Player FHSHWA01mem hand ['3c', '5h', 'As', '4h', 'Tc']
+Player FHSHWA02mem won 46 chips.
+
+ Starting Round: 21
+
+ Starting Round: 21
+The player FHSHWA02mem has 152chips
+The player FHSHWA02mem has 152chips
+The player FHSHWA01mem has 248chips
+The player FHSHWA01mem has 248chips
+Player FHSHWA01mem hand ['6d', '4h', '6s', 'Jd', '7d']
+The ante is: 40
+Player FHSHWA02mem made a forced bet of 40 chips.
+Player FHSHWA02mem opened, has put 41 chips into the pot.
+Opponents predicted hand: 39
+My hand: 31
+Player FHSHWA01mem called.
+Player FHSHWA01mem called.
+throw card action True the cards to throw ['7s', '8d', 'Td']
+Player FHSHWA02mem hand ['Qc', 'Ad', '3d', 'Qs', '2h']
+Player FHSHWA02mem exchanged 3 cards.
+Player FHSHWA02mem exchanged 3 cards.
+throw card action True the cards to throw ['4h', '7d', 'Jd']
+Player FHSHWA01mem exchanged 3 cards.'6s', 'Ks', 'Ac']
+Player FHSHWA01mem exchanged 3 cards.
+Player FHSHWA02mem opened, has put 42 chips into the pot.
+Opponents predicted hand: 39
+My hand: 31
+Player FHSHWA01mem called.
+Player FHSHWA02mem hand ['Qc', 'Ad', '3d', 'Qs', '2h']
+Player FHSHWA01mem hand ['6d', 'Tc', '6s', 'Ks', 'Ac']
+Player FHSHWA02mem won 84 chips.
+Player FHSHWA01mem hand ['6d', 'Tc', '6s', 'Ks', 'Ac']
+Player FHSHWA02mem won 84 chips.
+
+ Starting Round: 22
+The player FHSHWA02mem has 194chips
+The player FHSHWA02mem has 194chips
+The player FHSHWA01mem has 206chips
+The player FHSHWA01mem has 206chips
+Player FHSHWA02mem hand ['8c', '9d', '6d', 'Kc', '9h']
+Player FHSHWA01mem hand ['Ad', 'Jh', '8s', '6h', '2c']
+Player FHSHWA02mem made a forced bet of 40 chips.
+Player FHSHWA01mem opened, has put 41 chips into the pot.
+Opponents predicted hand: 26
+My hand: 34
+Player FHSHWA02mem raised to 42 chips.
+Opponents predicted hand: 26
+My hand: 26
+Player FHSHWA01mem raised to 43 chips.
+Opponents predicted hand: 26
+My hand: 34
+Player FHSHWA02mem raised to 44 chips.
+Player FHSHWA02mem raised to 44 chips.
+Opponents predicted hand: 26
+My hand: 26
+Player FHSHWA01mem raised to 45 chips.
+Opponents predicted hand: 26
+My hand: 34
+Player FHSHWA02mem raised to 46 chips.
+Opponents predicted hand: 38
+My hand: 26
+Player FHSHWA01mem called.
+Player FHSHWA01mem called.
+throw card action True the cards to throw ['2c', '6h', '8s', 'Jh']
+Player FHSHWA01mem hand ['Ad', '5c', 'Th', '2s', '2h']
+Player FHSHWA01mem exchanged 4 cards.
+Player FHSHWA01mem exchanged 4 cards.
+throw card action True the cards to throw ['6d', '8c', 'Kc']
+Player FHSHWA02mem hand ['3h', '9d', '4d', 'Jc', '9h']
+Player FHSHWA02mem exchanged 3 cards.
+Player FHSHWA02mem exchanged 3 cards.
+Player FHSHWA01mem opened, has put 47 chips into the pot.
+Opponents predicted hand: 26
+My hand: 34
+Player FHSHWA02mem raised to 48 chips.
+Player FHSHWA02mem raised to 48 chips.
+Opponents predicted hand: 38
+My hand: 27
+Player FHSHWA01mem called.
+Player FHSHWA02mem hand ['3h', '9d', '4d', 'Jc', '9h']
+Player FHSHWA01mem hand ['Ad', '5c', 'Th', '2s', '2h']
+Player FHSHWA02mem won 96 chips.
+Player FHSHWA02mem hand ['3h', '9d', '4d', 'Jc', '9h']
+Player FHSHWA01mem hand ['Ad', '5c', 'Th', '2s', '2h']
+Player FHSHWA02mem won 96 chips.
+
+ Starting Round: 23
+
+ Starting Round: 23
+The player FHSHWA02mem has 242chips
+The player FHSHWA02mem has 242chips
+The player FHSHWA01mem has 158chips
+The player FHSHWA01mem has 158chips
+Player FHSHWA02mem hand ['8h', '9s', '4s', '6s', '2c']
+Player FHSHWA02mem made a forced bet of 40 chips.
+Player FHSHWA01mem made a forced bet of 40 chips.
+Player FHSHWA02mem opened, has put 41 chips into the pot.
+Player FHSHWA02mem opened, has put 41 chips into the pot.
+Opponents predicted hand: 38
+My hand: 26
+Player FHSHWA01mem called.
+Player FHSHWA01mem called.
+throw card action True the cards to throw ['2c', '4s', '6s', '8h']
+Player FHSHWA02mem hand ['9d', '9s', 'Js', '8d', 'Tc']
+Player FHSHWA02mem exchanged 4 cards.
+Player FHSHWA02mem exchanged 4 cards.
+throw card action True the cards to throw ['2d', '6c', '7s', 'Kc']
+Player FHSHWA01mem hand ['Ac', 'Kd', '5c', 'Td', '3c']
+Player FHSHWA01mem exchanged 4 cards.
+Player FHSHWA01mem exchanged 4 cards.
+Player FHSHWA02mem opened, has put 42 chips into the pot.
+Opponents predicted hand: 38
+My hand: 26
+Player FHSHWA01mem called.
+Player FHSHWA01mem called.
+Player FHSHWA02mem hand ['9d', '9s', 'Js', '8d', 'Tc']
+Player FHSHWA02mem hand ['9d', '9s', 'Js', '8d', 'Tc']
+Player FHSHWA01mem hand ['Ac', 'Kd', '5c', 'Td', '3c']
+Player FHSHWA01mem hand ['Ac', 'Kd', '5c', 'Td', '3c']
+Player FHSHWA02mem won 84 chips.
+Player FHSHWA02mem won 84 chips.
+
+ Starting Round: 24
+The player FHSHWA02mem has 284chips
+The player FHSHWA01mem has 116chips
+The player FHSHWA01mem has 116chips
+Player FHSHWA02mem hand ['9c', 'Qs', '9d', 'Ks', '5d']
+Player FHSHWA01mem hand ['4d', '5h', '4h', '5c', 'Jd']
+Player FHSHWA02mem made a forced bet of 40 chips.
+Player FHSHWA01mem opened, has put 41 chips into the pot.
+Player FHSHWA01mem opened, has put 41 chips into the pot.
+Opponents predicted hand: 39
+My hand: 34
+Player FHSHWA02mem called.
+throw card action True the cards to throw ['Jd']
+Player FHSHWA01mem hand ['4d', '5h', '4h', '5c', '2c']
+Player FHSHWA01mem exchanged 1 cards.
+throw card action True the cards to throw ['5d', 'Qs', 'Ks']
+Player FHSHWA02mem exchanged 3 cards.'9d', '6s', '4c']
+Player FHSHWA02mem exchanged 3 cards.
+Player FHSHWA01mem opened, has put 42 chips into the pot.
+Opponents predicted hand: 61
+My hand: 34
+Player FHSHWA02mem called.
+Player FHSHWA02mem called.
+Player FHSHWA02mem hand ['9c', 'Th', '9d', '6s', '4c']
+Player FHSHWA01mem hand ['4d', '5h', '4h', '5c', '2c']
+Player FHSHWA02mem hand ['9c', 'Th', '9d', '6s', '4c']
+Player FHSHWA01mem hand ['4d', '5h', '4h', '5c', '2c']
+Player FHSHWA01mem won 84 chips.
+Player FHSHWA01mem won 84 chips.
+
+ Starting Round: 25
+The player FHSHWA02mem has 242chips
+The player FHSHWA02mem has 242chips
+The player FHSHWA01mem has 158chips
+The player FHSHWA01mem has 158chips
+Player FHSHWA02mem hand ['4c', 'Kh', '8h', '4d', '2c']
+Player FHSHWA02mem made a forced bet of 40 chips.
+Player FHSHWA02mem opened, has put 41 chips into the pot.
+Player FHSHWA02mem opened, has put 41 chips into the pot.
+Opponents predicted hand: 38
+My hand: 25
+Player FHSHWA01mem called.
+throw card action True the cards to throw ['2c', '8h', 'Kh']
+Player FHSHWA02mem exchanged 3 cards.'Th', '4d', 'Kd']
+Player FHSHWA02mem exchanged 3 cards.
+throw card action True the cards to throw ['4h']
+Player FHSHWA01mem hand ['Ts', 'Kc', '9d', '7s', '8s']
+Player FHSHWA01mem exchanged 1 cards.
+Player FHSHWA01mem exchanged 1 cards.
+Player FHSHWA02mem opened, has put 42 chips into the pot.
+Player FHSHWA02mem opened, has put 42 chips into the pot.
+Opponents predicted hand: 38
+My hand: 25
+Player FHSHWA01mem called.
+Player FHSHWA02mem hand ['4c', 'Qc', 'Th', '4d', 'Kd']
+Player FHSHWA02mem hand ['4c', 'Qc', 'Th', '4d', 'Kd']
+Player FHSHWA01mem hand ['Ts', 'Kc', '9d', '7s', '8s']
+Player FHSHWA02mem won 84 chips.
+Player FHSHWA01mem hand ['Ts', 'Kc', '9d', '7s', '8s']
+Player FHSHWA02mem won 84 chips.
+
+ Starting Round: 26
+The player FHSHWA02mem has 284chips
+The player FHSHWA01mem has 116chips
+Player FHSHWA01mem hand ['6h', 'Jh', 'Ks', '2s', '8s']
+Player FHSHWA01mem made a forced bet of 40 chips.
+Player FHSHWA02mem made a forced bet of 40 chips.
+Player FHSHWA01mem opened, has put 41 chips into the pot.
+Opponents predicted hand: 39
+My hand: 37
+Player FHSHWA02mem called.
+throw card action True the cards to throw ['2s', '6h', '8s', 'Jh']
+Player FHSHWA01mem hand ['6c', '7d', 'Ks', '9c', 'Js']
+Player FHSHWA01mem exchanged 4 cards.hrow ['8d', '9s', 'Ad']
+Player FHSHWA02mem hand ['2h', 'Qs', 'Qd', 'Kc', '7s']
+Player FHSHWA02mem exchanged 3 cards.
+Player FHSHWA02mem exchanged 3 cards.
+Player FHSHWA01mem opened, has put 42 chips into the pot.
+Opponents predicted hand: 61
+My hand: 37
+Player FHSHWA02mem called.
+Player FHSHWA02mem hand ['2h', 'Qs', 'Qd', 'Kc', '7s']
+Player FHSHWA01mem hand ['6c', '7d', 'Ks', '9c', 'Js']
+Player FHSHWA02mem hand ['2h', 'Qs', 'Qd', 'Kc', '7s']
+Player FHSHWA01mem hand ['6c', '7d', 'Ks', '9c', 'Js']
+Player FHSHWA02mem won 84 chips.
+Player FHSHWA02mem won 84 chips.
+
+ Starting Round: 27
+The player FHSHWA02mem has 326chips
+The player FHSHWA02mem has 326chips
+The player FHSHWA01mem has 74chips
+The player FHSHWA01mem has 74chips
+Player FHSHWA02mem hand ['Qc', 'Jd', '7c', '2s', 'Ah']
+Player FHSHWA01mem hand ['3d', '8h', '5d', 'As', '7h']
+Player FHSHWA02mem made a forced bet of 40 chips.
+Player FHSHWA01mem made a forced bet of 40 chips.
+Player FHSHWA02mem opened, has put 41 chips into the pot.
+Opponents predicted hand: 25
+My hand: 26
+Player FHSHWA01mem called.
+throw card action True the cards to throw ['2s', '7c', 'Jd', 'Qc']
+Player FHSHWA02mem hand ['7s', '8d', '9c', '5h', 'Ah']
+Player FHSHWA02mem exchanged 4 cards.
+throw card action True the cards to throw ['3d', '5d', '7h', '8h']
+Player FHSHWA01mem exchanged 4 cards.'Th', 'As', '4s']
+Player FHSHWA01mem exchanged 4 cards.
+Player FHSHWA02mem opened, has put 42 chips into the pot.
+Player FHSHWA02mem opened, has put 42 chips into the pot.
+Opponents predicted hand: 31
+My hand: 26
+Player FHSHWA01mem called.
+Player FHSHWA02mem hand ['7s', '8d', '9c', '5h', 'Ah']
+Player FHSHWA01mem hand ['6s', '3c', 'Th', 'As', '4s']
+Player FHSHWA02mem won 42 chips.
+Player FHSHWA01mem hand ['6s', '3c', 'Th', 'As', '4s']
+Player FHSHWA02mem won 42 chips.
+Player FHSHWA01mem won 42 chips.
+Player FHSHWA01mem won 42 chips.
+
+ Starting Round: 28
+The player FHSHWA02mem has 326chips
+The player FHSHWA01mem has 74chips
+The player FHSHWA01mem has 74chips
+Player FHSHWA01mem hand ['2d', 'Kc', '8s', '3s', 'Ah']
+Player FHSHWA01mem made a forced bet of 40 chips.
+Player FHSHWA01mem opened, has put 41 chips into the pot.
+Opponents predicted hand: 27
+My hand: 36
+Player FHSHWA02mem raised to 42 chips.
+Opponents predicted hand: 32
+My hand: 26
+Player FHSHWA01mem called.
+throw card action True the cards to throw ['2d', '3s', '8s', 'Kc']
+Player FHSHWA01mem hand ['Qc', '2s', '4s', '9s', 'Ah']
+Player FHSHWA01mem exchanged 4 cards.
+Player FHSHWA01mem exchanged 4 cards.
+throw card action True the cards to throw ['2h', '3d', '6h']
+Player FHSHWA02mem hand ['4d', 'Kh', 'Js', 'Jh', 'Jd']
+Player FHSHWA02mem exchanged 3 cards.
+Player FHSHWA02mem exchanged 3 cards.
+Player FHSHWA01mem opened, has put 43 chips into the pot.
+Opponents predicted hand: 47
+My hand: 62
+Player FHSHWA02mem raised to 44 chips.
+Opponents predicted hand: 32
+My hand: 26
+Player FHSHWA01mem called.
+Player FHSHWA01mem called.
+Player FHSHWA02mem hand ['4d', 'Kh', 'Js', 'Jh', 'Jd']
+Player FHSHWA01mem hand ['Qc', '2s', '4s', '9s', 'Ah']
+Player FHSHWA02mem hand ['4d', 'Kh', 'Js', 'Jh', 'Jd']
+Player FHSHWA02mem won 88 chips.
+Player FHSHWA01mem hand ['Qc', '2s', '4s', '9s', 'Ah']
+Player FHSHWA02mem won 88 chips.
+
+ Starting Round: 29
+The player FHSHWA02mem has 370chips
+The player FHSHWA02mem has 370chips
+The player FHSHWA01mem has 30chips
+The player FHSHWA01mem has 30chips
+Player FHSHWA01mem hand ['5d', '6d', '6c', '7h', '2d']
+Player FHSHWA01mem goes all-in with a pot of 30 chips.
+Player FHSHWA02mem made a forced bet of 40 chips.
+Player FHSHWA01mem goes all-in with a pot of 30 chips.
+throw card action True the cards to throw ['Ks']
+Player FHSHWA02mem hand ['5c', '6h', 'Ac', '7d', '3s']
+Player FHSHWA02mem exchanged 1 cards.
+Player FHSHWA02mem exchanged 1 cards.
+throw card action True the cards to throw ['2d', '5d', '7h']
+Player FHSHWA01mem exchanged 3 cards.'6c', '9c', 'Ts']
+Player FHSHWA01mem exchanged 3 cards.
+Player FHSHWA02mem hand ['5c', '6h', 'Ac', '7d', '3s']
+Player FHSHWA01mem hand ['Jd', '6d', '6c', '9c', 'Ts']
+Player FHSHWA01mem hand ['Jd', '6d', '6c', '9c', 'Ts']
+Player FHSHWA02mem won 10 chips.
+Player FHSHWA02mem won 10 chips.
+Player FHSHWA01mem won 60 chips.
+Player FHSHWA01mem won 60 chips.
+
+ Starting Round: 30
+
+ Starting Round: 30
+The player FHSHWA02mem has 340chips
+The player FHSHWA02mem has 340chips
+The player FHSHWA01mem has 60chips
+The player FHSHWA01mem has 60chips
+Player FHSHWA02mem hand ['7s', 'Kd', '5s', '8d', 'Th']
+Player FHSHWA01mem made a forced bet of 40 chips.
+Player FHSHWA01mem opened, has put 41 chips into the pot.
+Opponents predicted hand: 35
+My hand: 25
+Player FHSHWA02mem called.
+Player FHSHWA02mem called.
+throw card action True the cards to throw ['2s', '3d', 'Tc']
+Player FHSHWA01mem hand ['5h', '8c', '4s', 'Ad', '4c']
+Player FHSHWA01mem exchanged 3 cards.
+Player FHSHWA01mem exchanged 3 cards.
+throw card action True the cards to throw ['5s', '7s', '8d', 'Th']
+Player FHSHWA02mem hand ['Qd', 'Kd', '5c', 'As', '2d']
+Player FHSHWA02mem exchanged 4 cards.
+Player FHSHWA02mem exchanged 4 cards.
+Player FHSHWA01mem opened, has put 42 chips into the pot.
+Player FHSHWA01mem opened, has put 42 chips into the pot.
+Opponents predicted hand: 35
+My hand: 26
+Player FHSHWA02mem called.
+Player FHSHWA02mem hand ['Qd', 'Kd', '5c', 'As', '2d']
+Player FHSHWA01mem hand ['5h', '8c', '4s', 'Ad', '4c']
+Player FHSHWA02mem hand ['Qd', 'Kd', '5c', 'As', '2d']
+Player FHSHWA01mem won 84 chips.
+Player FHSHWA01mem hand ['5h', '8c', '4s', 'Ad', '4c']
+Player FHSHWA01mem won 84 chips.
+
+ Starting Round: 31
+The player FHSHWA02mem has 298chips
+The player FHSHWA02mem has 298chips
+The player FHSHWA01mem has 102chips
+The player FHSHWA01mem has 102chips
+Player FHSHWA02mem hand ['9c', '5s', '5h', '7d', '6s']
+Player FHSHWA01mem hand ['5c', 'As', 'Kd', 'Qs', '7s']
+The ante is: 80
+The ante is: 80
+Player FHSHWA02mem made a forced bet of 80 chips.
+Player FHSHWA01mem made a forced bet of 80 chips.
+Player FHSHWA02mem opened, has put 81 chips into the pot.
+Opponents predicted hand: 39
+My hand: 26
+Player FHSHWA01mem called.
+Player FHSHWA01mem called.
+throw card action True the cards to throw ['6s', '7d', '9c']
+Player FHSHWA02mem hand ['8d', '5s', '5h', '7h', 'Th']
+Player FHSHWA02mem exchanged 3 cards.
+Player FHSHWA02mem exchanged 3 cards.
+throw card action True the cards to throw ['5c', '7s', 'Qs', 'Kd']
+Player FHSHWA01mem exchanged 4 cards.'2c', '8s', '2d']
+Player FHSHWA01mem exchanged 4 cards.
+Player FHSHWA02mem opened, has put 82 chips into the pot.
+Opponents predicted hand: 39
+My hand: 27
+Player FHSHWA01mem called.
+Player FHSHWA01mem called.
+Player FHSHWA02mem hand ['8d', '5s', '5h', '7h', 'Th']
+Player FHSHWA02mem hand ['8d', '5s', '5h', '7h', 'Th']
+Player FHSHWA01mem hand ['4d', 'As', '2c', '8s', '2d']
+Player FHSHWA02mem won 164 chips.
+Player FHSHWA01mem hand ['4d', 'As', '2c', '8s', '2d']
+Player FHSHWA02mem won 164 chips.
+
+ Starting Round: 32
+
+ Starting Round: 32
+The player FHSHWA02mem has 380chips
+The player FHSHWA01mem has 20chips
+The player FHSHWA01mem has 20chips
+Player FHSHWA01mem hand ['Ah', 'Ac', '6c', '2h', '2d']
+Player FHSHWA02mem hand ['8c', '8s', 'Jh', 'Qs', 'Qd']
+Player FHSHWA01mem goes all-in with a pot of 20 chips.
+Player FHSHWA01mem goes all-in with a pot of 20 chips.
+Player FHSHWA02mem made a forced bet of 80 chips.
+throw card action True the cards to throw ['6c']
+Player FHSHWA01mem hand ['Ah', 'Ac', 'Ts', '2h', '2d']
+Player FHSHWA01mem exchanged 1 cards.
+throw card action True the cards to throw ['Jh']
+Player FHSHWA02mem exchanged 1 cards.'3s', 'Qs', 'Qd']
+Player FHSHWA02mem exchanged 1 cards.
+Player FHSHWA02mem hand ['8c', '8s', '3s', 'Qs', 'Qd']
+Player FHSHWA01mem hand ['Ah', 'Ac', 'Ts', '2h', '2d']
+Player FHSHWA01mem hand ['Ah', 'Ac', 'Ts', '2h', '2d']
+Player FHSHWA02mem won 60 chips.
+Player FHSHWA02mem won 60 chips.
+Player FHSHWA01mem won 40 chips.
+Player FHSHWA01mem won 40 chips.
+
+ Starting Round: 33
+The player FHSHWA02mem has 360chips
+The player FHSHWA02mem has 360chips
+The player FHSHWA01mem has 40chips
+The player FHSHWA01mem has 40chips
+Player FHSHWA01mem hand ['2c', '8d', '6d', 'Ah', '6h']
+Player FHSHWA02mem made a forced bet of 80 chips.
+Player FHSHWA01mem goes all-in with a pot of 40 chips.
+Player FHSHWA01mem goes all-in with a pot of 40 chips.
+throw card action True the cards to throw ['Kc']
+Player FHSHWA02mem hand ['7h', 'Js', '7c', '4s', 'Jh']
+Player FHSHWA02mem exchanged 1 cards.
+Player FHSHWA02mem exchanged 1 cards.
+throw card action True the cards to throw ['2c', '8d', 'Ah']
+Player FHSHWA01mem hand ['6c', 'Ad', '6d', '2d', '6h']
+Player FHSHWA01mem exchanged 3 cards.
+Player FHSHWA01mem exchanged 3 cards.
+Player FHSHWA02mem hand ['7h', 'Js', '7c', '4s', 'Jh']
+Player FHSHWA02mem hand ['7h', 'Js', '7c', '4s', 'Jh']
+Player FHSHWA01mem hand ['6c', 'Ad', '6d', '2d', '6h']
+Player FHSHWA02mem won 40 chips.
+Player FHSHWA01mem hand ['6c', 'Ad', '6d', '2d', '6h']
+Player FHSHWA01mem won 80 chips.
+Player FHSHWA02mem won 40 chips.
+Player FHSHWA01mem won 80 chips.
+
+ Starting Round: 34
+The player FHSHWA02mem has 320chips
+The player FHSHWA02mem has 320chips
+The player FHSHWA01mem has 80chips
+The player FHSHWA01mem has 80chips
+Player FHSHWA02mem hand ['Ad', '7c', '8d', 'Ah', '6h']
+Player FHSHWA01mem goes all-in with a pot of 80 chips.
+Player FHSHWA01mem goes all-in with a pot of 80 chips.
+Player FHSHWA02mem made a forced bet of 80 chips.
+throw card action True the cards to throw ['3c']
+Player FHSHWA01mem exchanged 1 cards.'9h', '7h', '8h']
+Player FHSHWA01mem exchanged 1 cards.
+throw card action True the cards to throw ['6h', '7c', '8d']
+Player FHSHWA02mem hand ['Ad', '2h', 'Qs', 'Ah', '5d']
+Player FHSHWA02mem exchanged 3 cards.
+Player FHSHWA02mem exchanged 3 cards.
+Player FHSHWA02mem hand ['Ad', '2h', 'Qs', 'Ah', '5d']
+Player FHSHWA01mem hand ['Th', 'Qc', '9h', '7h', '8h']
+Player FHSHWA01mem hand ['Th', 'Qc', '9h', '7h', '8h']
+Player FHSHWA02mem won 160 chips.
+The game is over.
+
+
